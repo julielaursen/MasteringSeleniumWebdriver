@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="9730" started-at="2017-12-22T01:49:29Z" finished-at="2017-12-22T01:49:39Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="9730" started-at="2017-12-22T01:49:29Z" finished-at="2017-12-22T01:49:39Z">
+      <class name="com.masteringselenium.BasicTestWD">
+        <test-method status="PASS" signature="instantiateDriverObject()[pri:0, instance:com.masteringselenium.BasicTestWD@75bd9247]" name="instantiateDriverObject" is-config="true" duration-ms="7" started-at="2017-12-21T19:49:29Z" finished-at="2017-12-21T19:49:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instantiateDriverObject -->
+        <test-method status="PASS" signature="googleCheeseExample()[pri:0, instance:com.masteringselenium.BasicTestWD@75bd9247]" name="googleCheeseExample" duration-ms="9209" started-at="2017-12-21T19:49:29Z" finished-at="2017-12-21T19:49:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleCheeseExample -->
+        <test-method status="PASS" signature="googleMilkExample()[pri:0, instance:com.masteringselenium.BasicTestWD@75bd9247]" name="googleMilkExample" duration-ms="8724" started-at="2017-12-21T19:49:29Z" finished-at="2017-12-21T19:49:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleMilkExample -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.masteringselenium.BasicTestWD@75bd9247]" name="quitDriver" is-config="true" duration-ms="676" started-at="2017-12-21T19:49:38Z" finished-at="2017-12-21T19:49:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.masteringselenium.BasicTestWD@75bd9247]" name="quitDriver" is-config="true" duration-ms="510" started-at="2017-12-21T19:49:38Z" finished-at="2017-12-21T19:49:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- com.masteringselenium.BasicTestWD -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
