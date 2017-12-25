@@ -43,4 +43,9 @@ public class BasicTestWD extends DriverFactory{
     public void googleMilkExample() throws Exception {
         googleExampleThatSearchesFor("Milk!");
     }
+
+    @Test
+    public void googleBreadExample() throws Exception {
+        googleExampleThatSearchesFor("Bread!");
+    }
 }
